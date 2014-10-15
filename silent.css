@@ -52,10 +52,10 @@ img {
 @-webkit-keyframes fouth {
 	0%{
 		opacity: 1;
-		transform: scale(1);
+		-webkit-transform: scale(1);
 	}
 	100%{
 		opacity: 0;
-		transform: scale(2);
+		-webkit-transform: scale(2);
 	}
 }
