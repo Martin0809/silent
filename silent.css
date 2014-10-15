@@ -22,15 +22,19 @@ section {
 	overflow: hidden;
 }
 
-img {
-	position: absolute;
-	margin-top: 50px;
-	padding: 10px 10px 40px 10px;
-	background-color: #fff;
+.content {
+	 position: relative;
 }
 
-.fouth-screen-first {
-	-webkit-animation: fouth .8s linear 10s forwards;
+.images {
+
+}
+
+img {
+	position: relative;
+	margin-top: 50px;
+	padding: 10px 10px 50px 10px;
+	background-color: #fff;
 }
 
 .fouth-screen-second {
