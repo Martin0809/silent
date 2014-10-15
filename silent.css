@@ -19,9 +19,43 @@ section {
 	font-size: ;
 	color: #fff;
 	background-color: pink;
+	overflow: hidden;
 }
 
 img {
+	position: absolute;
+	margin-top: 50px;
 	padding: 10px 10px 40px 10px;
 	background-color: #fff;
+}
+
+.fouth-screen-first {
+	-webkit-animation: fouth .8s linear 10s forwards;
+}
+
+.fouth-screen-second {
+	-webkit-animation: fouth .8s linear 8s forwards;
+}
+
+.fouth-screen-third {
+	-webkit-animation: fouth .8s linear 6s forwards;
+}
+
+.fouth-screen-fouth {
+	-webkit-animation: fouth .8s linear 4s forwards;
+}
+
+.fouth-screen-fifth {
+	-webkit-animation: fouth .8s linear 2s forwards;
+}
+
+@-webkit-keyframes fouth {
+	0%{
+		opacity: 1;
+		transform: scale(1);
+	}
+	100%{
+		opacity: 0;
+		transform: scale(2);
+	}
 }
