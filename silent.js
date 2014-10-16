@@ -10,3 +10,7 @@ window.onload = function() {
 		contents[i].style.top = (clientHeight - imgHeight - 180) / 2 + "px";
 	}
 };
+
+function start() {
+	document.getElementById("music").play();
+}
