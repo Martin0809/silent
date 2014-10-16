@@ -1,0 +1,85 @@
+.start {
+	-webkit-animation: out .8s linear forwards;
+}
+
+/* first screen */
+.first-screen-first {
+	-webkit-animation: firstOut .8s linear 2s forwards;
+}
+
+.first-screen-second {
+	-webkit-animation: firstOut .8s linear 4s forwards;
+}
+
+.first-screen-third {
+	-webkit-animation: firstOut .8s linear 6s forwards;
+}
+
+.first-screen-fouth {
+	-webkit-animation: firstOut .8s linear 8s forwards;
+}
+
+.first-lead {
+	-webkit-animation: firstIn .8s linear 10s backwards;
+}
+
+.first-screen {
+	-webkit-animation: firstOut .8s linear 12s forwards;
+}
+
+/* second screen */
+.second-screen-first {
+	-webkit-animation: firstOut .8s linear 14s forwards;
+}
+
+.second-screen-second {
+	-webkit-animation: firstOut .8s linear 16s forwards;
+}
+
+.second-screen-third {
+	-webkit-animation: firstOut .8s linear 18s forwards;
+}
+
+.second-screen-fouth {
+	-webkit-animation: firstOut .8s linear 20s forwards;
+}
+
+.second-lead {
+	-webkit-animation: firstIn .8s linear 22s backwards;
+}
+
+.second-screen {
+	-webkit-animation: firstOut .8s linear 24s forwards;
+}
+
+@-webkit-keyframes firstOut {
+	0% {
+		opacity: 1;
+		-webkit-transform: scale(1) rotate(0deg);
+	}
+	100% {
+		opacity: 0;
+		-webkit-transform: scale(2) rotate(-45deg);
+	}
+}
+
+@-webkit-keyframes firstIn {
+	0% {
+		opacity: 0;
+		-webkit-transform: scale(2) rotate(45deg);
+	}
+	100% {
+		opacity: 1;
+		-webkit-transform: scale(1) rotate(0deg);
+	}
+}
+
+@-webkit-keyframes out {
+	0% {
+		opacity: 1;
+		
+	}
+	100% {
+		opacity: 0;
+	}
+}

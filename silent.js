@@ -7,6 +7,6 @@ window.onload = function() {
 	var clientHeight = document.body.clientHeight;
 	var contents = document.getElementsByClassName("content");
 	for(var i = 0; i < contents.length; i++) {
-		contents[i].style.top = (clientHeight - imgHeight - 120) / 2 + "px";
+		contents[i].style.top = (clientHeight - imgHeight - 180) / 2 + "px";
 	}
 };
