@@ -90,6 +90,12 @@
 	-webkit-animation: screenOut .8s 57s forwards;
 }
 
+/* word screen */
+.word-first {
+
+}
+
+/* animation */
 @-webkit-keyframes fadeOutLeft {
 	0% {
 		opacity: 1;

@@ -11,6 +11,10 @@ window.onload = function() {
 	for(var i = 0; i < contents.length; i++) {
 		contents[i].style.top = (clientHeight - imgHeight - 180) / 2 + "px";
 	}
+	var wordContents = document.getElementsByClassName("word-content");
+	for(var i = 0; i < wordContents.length; i++) {
+		wordContents[i].style.top = (clientHeight - wordContents[i].offsetHeight) / 2 + "px";
+	}
 };
 
 function start() {
