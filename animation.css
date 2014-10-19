@@ -8,32 +8,32 @@
 }
 
 .start {
-	-webkit-animation: startOut 1s 2s forwards;
+	-webkit-animation: startOut 1s 2.5s forwards;
 }
 
 /* first screen */
 .first-screen-first {
-	-webkit-animation: rollOutRight .8s 3s forwards;
+	-webkit-animation: rollOutRight .8s 6s forwards;
 }
 
 .first-screen-second {
-	-webkit-animation: rollOutLeft .8s 6s forwards;
+	-webkit-animation: rollOutLeft .8s 9s forwards;
 }
 
 .first-screen-third {
-	-webkit-animation: rollOutRight .8s 9s forwards;
+	-webkit-animation: rollOutRight .8s 12s forwards;
 }
 
 .first-screen-fouth {
-	-webkit-animation: rollOutLeft .8s 12s forwards;
+	-webkit-animation: rollOutLeft .8s 15s forwards;
 }
 
 .first-lead {
-	-webkit-animation: rollIn .8s 15s backwards;
+	-webkit-animation: rollIn .8s 17s backwards;
 }
 
 .first-screen {
-	-webkit-animation: screenOut .8s 18s forwards;
+	-webkit-animation: screenOut .8s 18.5s forwards;
 }
 
 /* second screen */
@@ -54,40 +54,40 @@
 }
 
 .second-lead {
-	-webkit-animation: rotateIn .8s 33s backwards;
+	-webkit-animation: rotateIn .8s 32s backwards;
 }
 
 .second-screen {
-	-webkit-animation: screenOut .8s 36s forwards;
+	-webkit-animation: screenOut .8s 33.5s forwards;
 }
 
 /* third screen */
 .third-screen-first {
-	-webkit-animation: zoomInLeft 1s 39s backwards;
+	-webkit-animation: zoomInLeft 1s 35s backwards;
 }
 
 .third-screen-second {
-	-webkit-animation: zoomInRight 1s 42s backwards;
+	-webkit-animation: zoomInRight 1s 38s backwards;
 }
 
 .third-screen-third {
-	-webkit-animation: zoomInLeft 1s 45s backwards;
+	-webkit-animation: zoomInLeft 1s 41s backwards;
 }
 
 .third-screen-fouth {
-	-webkit-animation: zoomInRight 1s 48s backwards;
+	-webkit-animation: zoomInRight 1s 44s backwards;
 }
 
 .third-screen-fifth {
-	-webkit-animation: zoomInLeft 1s 51s backwards;
+	-webkit-animation: zoomInLeft 1s 47s backwards;
 }
 
 .third-lead {
-	-webkit-animation: zoomInDown .8s 54s backwards;
+	-webkit-animation: zoomInDown .8s 49s backwards;
 }
 
 .third-screen {
-	-webkit-animation: screenOut .8s 57s forwards;
+	-webkit-animation: screenOut .8s 50.5s forwards;
 }
 
 /* word screen */
