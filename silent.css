@@ -86,5 +86,49 @@ section {
 }
 
 .word-img-first {
-	background-image: url("images/start.jpg");
+	background-image: url("images/word1.jpg");
+}
+
+.word-img-second {
+	background-image: url("images/word2.jpg");
+}
+
+.word-img-third {
+	background-image: url("images/word3.jpg");
+}
+
+.word-img-fourth {
+	background-image: url("images/word4.jpg");
+}
+
+.word-img-fifth {
+	background-image: url("images/word5.jpg");
+}
+
+.word-img-sixth {
+	background-image: url("images/word6.jpg");
+}
+
+.word-img-seventh {
+	background-image: url("images/word7.jpg");
+}
+
+.word-img-eighth {
+	background-image: url("images/word8.jpg");
+}
+
+.word-img-ninth {
+	background-image: url("images/word9.jpg");
+}
+
+.word-img-tenth {
+	background-image: url("images/word10.jpg");
+}
+
+.word-img-eleventh {
+	background-image: url("images/word11.jpg");
+}
+
+.word-img-twelfth {
+	background-image: url("images/word12.jpg");
 }
