@@ -78,154 +78,154 @@
 
 /* third screen */
 .third-screen-first {
-	-webkit-animation: zoomInLeft 1s 46s backwards;
-	        animation: zoomInLeft 1s 46s backwards;
+	-webkit-animation: zoomInLeft 1s 44s backwards;
+	        animation: zoomInLeft 1s 44s backwards;
 }
 
 .third-screen-second {
-	-webkit-animation: zoomInRight 1s 50s backwards;
-	        animation: zoomInRight 1s 50s backwards;
+	-webkit-animation: zoomInRight 1s 48s backwards;
+	        animation: zoomInRight 1s 48s backwards;
 }
 
 .third-screen-third {
-	-webkit-animation: zoomInLeft 1s 54s backwards;
-	        animation: zoomInLeft 1s 54s backwards;
+	-webkit-animation: zoomInLeft 1s 52s backwards;
+	        animation: zoomInLeft 1s 52s backwards;
 }
 
 .third-screen-fourth {
-	-webkit-animation: zoomInRight 1s 58s backwards;
-	        animation: zoomInRight 1s 58s backwards;
+	-webkit-animation: zoomInRight 1s 56s backwards;
+	        animation: zoomInRight 1s 56s backwards;
 }
 
 .third-screen-fifth {
-	-webkit-animation: zoomInLeft 1s 62s backwards;
-	        animation: zoomInLeft 1s 62s backwards;
+	-webkit-animation: zoomInLeft 1s 60s backwards;
+	        animation: zoomInLeft 1s 60s backwards;
 }
 
 .third-lead {
-	-webkit-animation: zoomInDown .8s 64s backwards;
-	        animation: zoomInDown .8s 64s backwards;
+	-webkit-animation: zoomInDown .8s 62s backwards;
+	        animation: zoomInDown .8s 62s backwards;
 }
 
 .third-screen {
-	-webkit-animation: screenOut .8s 66s forwards;
-	        animation: screenOut .8s 66s forwards;
+	-webkit-animation: screenOut .8s 64s forwards;
+	        animation: screenOut .8s 64s forwards;
 }
 
 /* word screen */
 .word-first {
-	-webkit-animation: fadeIn .8s 67s backwards;
-	        animation: fadeIn .8s 67s backwards;
+	-webkit-animation: fadeIn .8s 66s backwards;
+	        animation: fadeIn .8s 66s backwards;
 }
 
 .word-background-second {
-	-webkit-animation: rollInRight .8s 71s backwards;
-	        animation: rollInRight .8s 71s backwards;
+	-webkit-animation: rollInRight .8s 70s backwards;
+	        animation: rollInRight .8s 70s backwards;
 }
 
 .word-second {
-	-webkit-animation: fadeIn .8s 72s backwards;
-	        animation: fadeIn .8s 72s backwards;
+	-webkit-animation: fadeIn .8s 71s backwards;
+	        animation: fadeIn .8s 71s backwards;
 }
 
 .word-background-third {
-	-webkit-animation: rollIn .8s 76s backwards;
-	        animation: rollIn .8s 76s backwards;
+	-webkit-animation: rollIn .8s 75s backwards;
+	        animation: rollIn .8s 75s backwards;
 }
 
 .word-third {
-	-webkit-animation: fadeIn .8s 77s backwards;
-	        animation: fadeIn .8s 77s backwards;
+	-webkit-animation: fadeIn .8s 76s backwards;
+	        animation: fadeIn .8s 76s backwards;
 }
 
 .word-background-fourth {
-	-webkit-animation: rollInUp .8s 81s backwards;
-	        animation: rollInUp .8s 81s backwards;
+	-webkit-animation: rollInUp .8s 80s backwards;
+	        animation: rollInUp .8s 80s backwards;
 }
 
 .word-fourth {
-	-webkit-animation: fadeIn .8s 82s backwards;
-	        animation: fadeIn .8s 82s backwards;
+	-webkit-animation: fadeIn .8s 81s backwards;
+	        animation: fadeIn .8s 81s backwards;
 }
 
 .word-background-fifth {
-	-webkit-animation: rollInDown .8s 86s backwards;
-	        animation: rollInDown .8s 86s backwards;
+	-webkit-animation: rollInDown .8s 85s backwards;
+	        animation: rollInDown .8s 85s backwards;
 }
 
 .word-fifth {
-	-webkit-animation: fadeIn .8s 87s backwards;
-	        animation: fadeIn .8s 87s backwards;
+	-webkit-animation: fadeIn .8s 86s backwards;
+	        animation: fadeIn .8s 86s backwards;
 }
 
 .word-background-sixth {
-	-webkit-animation: rollInRight .8s 91s backwards;
-	        animation: rollInRight .8s 91s backwards;
+	-webkit-animation: rollInRight .8s 90s backwards;
+	        animation: rollInRight .8s 90s backwards;
 }
 
 .word-sixth {
-	-webkit-animation: fadeIn .8s 92s backwards;
-	        animation: fadeIn .8s 92s backwards;
+	-webkit-animation: fadeIn .8s 91s backwards;
+	        animation: fadeIn .8s 91s backwards;
 }
 
 .word-background-seventh {
-	-webkit-animation: rollIn .8s 96s backwards;
-	        animation: rollIn .8s 96s backwards;
+	-webkit-animation: rollIn .8s 95s backwards;
+	        animation: rollIn .8s 95s backwards;
 }
 
 .word-seventh {
-	-webkit-animation: fadeIn .8s 97s backwards;
-	        animation: fadeIn .8s 97s backwards;
+	-webkit-animation: fadeIn .8s 96s backwards;
+	        animation: fadeIn .8s 96s backwards;
 }
 
 .word-background-eighth {
-	-webkit-animation: rollInUp .8s 101s backwards;
-	        animation: rollInUp .8s 101s backwards;
+	-webkit-animation: rollInUp .8s 100s backwards;
+	        animation: rollInUp .8s 100s backwards;
 }
 
 .word-eighth {
-	-webkit-animation: fadeIn .8s 102s backwards;
-	        animation: fadeIn .8s 102s backwards;
+	-webkit-animation: fadeIn .8s 101s backwards;
+	        animation: fadeIn .8s 101s backwards;
 }
 
 .word-background-ninth {
-	-webkit-animation: rollInDown .8s 106s backwards;
-	        animation: rollInDown .8s 106s backwards;
+	-webkit-animation: rollInDown .8s 105s backwards;
+	        animation: rollInDown .8s 105s backwards;
 }
 
 .word-ninth {
-	-webkit-animation: fadeIn .8s 107s backwards;
-	        animation: fadeIn .8s 107s backwards;
+	-webkit-animation: fadeIn .8s 106s backwards;
+	        animation: fadeIn .8s 106s backwards;
 }
 
 .word-background-tenth {
-	-webkit-animation: rollInRight .8s 111s backwards;
-	        animation: rollInRight .8s 111s backwards;
+	-webkit-animation: rollInRight .8s 110s backwards;
+	        animation: rollInRight .8s 110s backwards;
 }
 
 .word-tenth {
-	-webkit-animation: fadeIn .8s 112s backwards;
-	        animation: fadeIn .8s 112s backwards;
+	-webkit-animation: fadeIn .8s 111s backwards;
+	        animation: fadeIn .8s 111s backwards;
 }
 
 .word-background-eleventh {
-	-webkit-animation: rollIn .8s 116s backwards;
-	        animation: rollIn .8s 116s backwards;
+	-webkit-animation: rollIn .8s 115s backwards;
+	        animation: rollIn .8s 115s backwards;
 }
 
 .word-eleventh {
-	-webkit-animation: fadeIn .8s 117s backwards;
-	        animation: fadeIn .8s 117s backwards;
+	-webkit-animation: fadeIn .8s 116s backwards;
+	        animation: fadeIn .8s 116s backwards;
 }
 
 .word-background-twelfth {
-	-webkit-animation: rollInUp .8s 121s backwards;
-	        animation: rollInUp .8s 121s backwards;
+	-webkit-animation: rollInUp .8s 120s backwards;
+	        animation: rollInUp .8s 120s backwards;
 }
 
 .word-twelfth {
-	-webkit-animation: fadeIn .8s 122s backwards;
-	        animation: fadeIn .8s 122s backwards;
+	-webkit-animation: fadeIn .8s 121s backwards;
+	        animation: fadeIn .8s 121s backwards;
 }
 
 /* animation */
