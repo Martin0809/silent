@@ -223,9 +223,19 @@
 	        animation: rollInUp .8s 120s backwards;
 }
 
-.word-twelfth {
+.word-twelfth-first {
 	-webkit-animation: fadeIn .8s 121s backwards;
 	        animation: fadeIn .8s 121s backwards;
+}
+
+.word-twelfth-second {
+	-webkit-animation: fadeIn .8s 123s backwards;
+	        animation: fadeIn .8s 123s backwards;
+}
+
+.word-twelfth-third {
+	-webkit-animation: fadeIn .8s 125s backwards;
+	        animation: fadeIn .8s 125s backwards;
 }
 
 /* animation */
