@@ -1,4 +1,5 @@
 window.onload = function() {
+	document.getElementById("load").style.display = "none";
 	var imgs = document.getElementsByClassName("img");
 	var imgHeight = imgs[0].offsetHeight;
 	for(var i = 0; i < imgs.length; i++) {
