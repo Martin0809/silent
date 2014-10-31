@@ -238,6 +238,16 @@
 	        animation: fadeIn .8s 125s backwards;
 }
 
+.word-background-end {
+	-webkit-animation: fadeIn .8s 128s backwards;
+	        animation: fadeIn .8s 128s backwards;
+}
+
+.word-end {
+	-webkit-animation: fadeIn .8s 129s backwards;
+	        animation: fadeIn .8s 129s backwards;
+}
+
 /* animation */
 @keyframes fadeIn {
 	0% {
