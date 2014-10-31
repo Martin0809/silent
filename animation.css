@@ -239,8 +239,8 @@
 }
 
 .word-background-end {
-	-webkit-animation: fadeIn .8s 128s backwards;
-	        animation: fadeIn .8s 128s backwards;
+	-webkit-animation: rollInDown .8s 128s backwards;
+	        animation: rollInDown .8s 128s backwards;
 }
 
 .word-end {
